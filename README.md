@@ -5,8 +5,8 @@ Clone these Repo
 
 **Install NodeJs , Express and MongoDB**
 
-**Run Node Js server**
-
 <h4> Go inside NodeJsAuthentication Directory</h4>
-**node server.js**
+
+**Run Node Js server**
+node server.js
 
