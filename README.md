@@ -7,5 +7,6 @@ Clone these Repo
 
 **Run Node Js server**
 
+Go inside NodeJsAuthentication Directory
 **#node server.js**
 
